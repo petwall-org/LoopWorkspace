@@ -1,0 +1,54 @@
+diff --git a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/AppStore-1024pt@1x.png b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/AppStore-1024pt@1x.png
+index 189337f7..d9f17dd3 100644
+Binary files a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/AppStore-1024pt@1x.png and b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/AppStore-1024pt@1x.png differ
+diff --git a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-60@2x.png b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-60@2x.png
+index 75427123..aac977ba 100644
+Binary files a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-60@2x.png and b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-60@2x.png differ
+diff --git a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-60@3x.png b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-60@3x.png
+index b08ae598..624f7289 100644
+Binary files a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-60@3x.png and b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-60@3x.png differ
+diff --git a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-76.png b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-76.png
+index d9165274..4a94a405 100644
+Binary files a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-76.png and b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-76.png differ
+diff --git a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-76@2x.png b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-76@2x.png
+index 266aa582..5752d27e 100644
+Binary files a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-76@2x.png and b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-76@2x.png differ
+diff --git a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-83.5@2x.png b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-83.5@2x.png
+index b2df83a8..1d9d7b58 100644
+Binary files a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-83.5@2x.png and b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-83.5@2x.png differ
+diff --git a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Notification-20.png b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Notification-20.png
+index f70accfa..18ff566e 100644
+Binary files a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Notification-20.png and b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Notification-20.png differ
+diff --git a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Notification-40.png b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Notification-40.png
+index b3792921..2f8a824a 100644
+Binary files a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Notification-40.png and b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Notification-40.png differ
+diff --git a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Notification-41.png b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Notification-41.png
+index b3792921..2f8a824a 100644
+Binary files a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Notification-41.png and b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Notification-41.png differ
+diff --git a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Notification-42.png b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Notification-42.png
+index b3792921..2f8a824a 100644
+Binary files a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Notification-42.png and b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Notification-42.png differ
+diff --git a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small-40@2x-1.png b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small-40@2x-1.png
+index b9b45b28..5c59f1c7 100644
+Binary files a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small-40@2x-1.png and b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small-40@2x-1.png differ
+diff --git a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small-40@2x.png b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small-40@2x.png
+index b9b45b28..5c59f1c7 100644
+Binary files a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small-40@2x.png and b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small-40@2x.png differ
+diff --git a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small-60.png b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small-60.png
+index 0ad6187e..777f27fd 100644
+Binary files a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small-60.png and b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small-60.png differ
+diff --git a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small-60@2x.png b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small-60@2x.png
+index 75427123..a5f203d1 100644
+Binary files a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small-60@2x.png and b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small-60@2x.png differ
+diff --git a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small.png b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small.png
+index ec13a4cb..41cff20d 100644
+Binary files a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small.png and b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small.png differ
+diff --git a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small@2x-1.png b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small@2x-1.png
+index 02e28324..8bc02718 100644
+Binary files a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small@2x-1.png and b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small@2x-1.png differ
+diff --git a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small@2x.png b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small@2x.png
+index 02e28324..8bc02718 100644
+Binary files a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small@2x.png and b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small@2x.png differ
+diff --git a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small@3x.png b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small@3x.png
+index 3659954b..40ffa261 100644
+Binary files a/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small@3x.png and b/Loop/Loop/DerivedAssetsBase.xcassets/AppIcon.appiconset/Icon-Small@3x.png differ

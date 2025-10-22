@@ -1,0 +1,54 @@
+diff --git a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/Icon.png b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/Icon.png
+index 9a01fc7..f0c830f 100644
+Binary files a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/Icon.png and b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/Icon.png differ
+diff --git a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_20pt.png b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_20pt.png
+index 9e63277..12774f2 100644
+Binary files a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_20pt.png and b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_20pt.png differ
+diff --git a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_20pt@2x-1.png b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_20pt@2x-1.png
+index 46b16ff..b2fbbd4 100644
+Binary files a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_20pt@2x-1.png and b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_20pt@2x-1.png differ
+diff --git a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_20pt@2x.png b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_20pt@2x.png
+index 46b16ff..b2fbbd4 100644
+Binary files a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_20pt@2x.png and b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_20pt@2x.png differ
+diff --git a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_20pt@3x.png b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_20pt@3x.png
+index e802e8a..6fdb012 100644
+Binary files a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_20pt@3x.png and b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_20pt@3x.png differ
+diff --git a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_29pt.png b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_29pt.png
+index 65516e2..0ebe60f 100644
+Binary files a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_29pt.png and b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_29pt.png differ
+diff --git a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_29pt@2x-1.png b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_29pt@2x-1.png
+index d47b20b..6e93ad3 100644
+Binary files a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_29pt@2x-1.png and b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_29pt@2x-1.png differ
+diff --git a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_29pt@2x.png b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_29pt@2x.png
+index d47b20b..6e93ad3 100644
+Binary files a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_29pt@2x.png and b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_29pt@2x.png differ
+diff --git a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_29pt@3x.png b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_29pt@3x.png
+index 05b0a95..e3560f0 100644
+Binary files a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_29pt@3x.png and b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_29pt@3x.png differ
+diff --git a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_40pt.png b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_40pt.png
+index 46b16ff..b2fbbd4 100644
+Binary files a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_40pt.png and b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_40pt.png differ
+diff --git a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_40pt@2x-1.png b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_40pt@2x-1.png
+index 3ea02f1..60fbb09 100644
+Binary files a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_40pt@2x-1.png and b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_40pt@2x-1.png differ
+diff --git a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_40pt@2x.png b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_40pt@2x.png
+index 3ea02f1..60fbb09 100644
+Binary files a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_40pt@2x.png and b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_40pt@2x.png differ
+diff --git a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_40pt@3x.png b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_40pt@3x.png
+index 68f4122..e9b841c 100644
+Binary files a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_40pt@3x.png and b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_40pt@3x.png differ
+diff --git a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_60pt@2x.png b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_60pt@2x.png
+index 68f4122..e9b841c 100644
+Binary files a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_60pt@2x.png and b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_60pt@2x.png differ
+diff --git a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_60pt@3x.png b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_60pt@3x.png
+index ad599ec..2cd09f9 100644
+Binary files a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_60pt@3x.png and b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_60pt@3x.png differ
+diff --git a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_76pt.png b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_76pt.png
+index 0826a16..7a8d9c1 100644
+Binary files a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_76pt.png and b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_76pt.png differ
+diff --git a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_76pt@2x.png b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_76pt@2x.png
+index 5bab5b2..d515e65 100644
+Binary files a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_76pt@2x.png and b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_76pt@2x.png differ
+diff --git a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_83.5@2x.png b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_83.5@2x.png
+index b89cd4e..01c9678 100644
+Binary files a/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_83.5@2x.png and b/OverrideAssetsLoop.xcassets/AppIcon.appiconset/icon_83.5@2x.png differ
